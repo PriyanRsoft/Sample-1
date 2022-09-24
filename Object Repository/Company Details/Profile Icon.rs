@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Profile Icon</name>
+   <tag></tag>
+   <elementGuidId>b9190496-6680-4229-9060-41af38a80d22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.avatar.avatar-online > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar-mobile']/ul[2]/li[4]/a/span/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>12f70cbd-d559-4557-9b23-c088d0f037bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.salezcrm.com/testing/public/img/DBTESTONE/Users/2022/Aug/week2/file_example_PNG_500kB-08082022122442.png</value>
+      <webElementGuid>db3e5ca0-bfd3-49d3-b886-242f04072382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-mobile&quot;)/ul[@class=&quot;nav navbar-nav float-right&quot;]/li[@class=&quot;dropdown dropdown-user nav-item&quot;]/a[@class=&quot;dropdown-toggle nav-link dropdown-user-link&quot;]/span[@class=&quot;avatar avatar-online&quot;]/img[1]</value>
+      <webElementGuid>63070e79-c05f-4e16-a96e-ba5fb5efd98c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-mobile']/ul[2]/li[4]/a/span/img</value>
+      <webElementGuid>d423c4f2-fbd7-4b9f-bd16-531632e9a9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://www.salezcrm.com/testing/public/img/DBTESTONE/Users/2022/Aug/week2/file_example_PNG_500kB-08082022122442.png')]</value>
+      <webElementGuid>5ef1167d-abd4-4f19-a96d-227332a69bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>7949c4ea-3cc5-4d61-add2-acde210667c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.salezcrm.com/testing/public/img/DBTESTONE/Users/2022/Aug/week2/file_example_PNG_500kB-08082022122442.png']</value>
+      <webElementGuid>48bc0be4-9cc6-4c15-8ba4-e59227f09984</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

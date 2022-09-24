@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Company Name Detail</name>
+   <tag></tag>
+   <elementGuidId>842ea00a-961e-432a-b4e5-1de07c4dc170</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='companylist']/div/div[4]/table/tbody/tr/td[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f44de207-2daf-4177-916a-e9cd68390c91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RSoft Technologies</value>
+      <webElementGuid>d161b3ec-8066-4d24-8768-e5083dbc70ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;companylist&quot;)/div[@class=&quot;companydetail_list&quot;]/div[@class=&quot;table-responsive companydetailblocks&quot;]/table[@class=&quot;table table-borderless&quot;]/tbody[1]/tr[1]/td[2]/p[1]</value>
+      <webElementGuid>f666d90a-fcdc-4311-bb10-122cd85e2954</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='companylist']/div/div[4]/table/tbody/tr/td[2]/p</value>
+      <webElementGuid>43ce6ff4-f6f3-43ef-9f4b-ca6eda0fede6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Name'])[1]/following::p[1]</value>
+      <webElementGuid>24cb2e04-8e8a-4aab-a59d-75ca05def174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Information'])[1]/following::p[1]</value>
+      <webElementGuid>c7e89af5-50c8-4a51-ab5d-82ed3145544a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::p[1]</value>
+      <webElementGuid>582805f9-4f1e-4a9f-8b4b-6922c98add4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/preceding::p[2]</value>
+      <webElementGuid>8a22d392-2e23-486c-9509-2f73df005c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>62b9bf1f-0d81-4161-85ec-6b0e15e97105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'RSoft Technologies' or . = 'RSoft Technologies')]</value>
+      <webElementGuid>c3dac686-c82a-4ff6-afd8-aba10690b993</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

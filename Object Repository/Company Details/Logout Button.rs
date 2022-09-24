@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Logout Button</name>
+   <tag></tag>
+   <elementGuidId>ea2f869a-5a23-4a5c-ae15-15bd25d34ba2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;event.preventDefault(); document.getElementById('logout-form').submit();&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ff7976ab-ea93-4686-8774-a9b6d9806805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>9d615c4e-c546-42a5-91e9-49bb62511912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.salezcrm.com/testing/public/logout</value>
+      <webElementGuid>ccd2da7d-c56e-451e-9cfb-e3ec04b3649c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>event.preventDefault(); document.getElementById('logout-form').submit();</value>
+      <webElementGuid>67791132-636e-431b-8fd2-1ebebe378f13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>f17658b0-2423-4c99-8a62-051429b530a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-mobile&quot;)/ul[@class=&quot;nav navbar-nav float-right&quot;]/li[@class=&quot;dropdown dropdown-user nav-item show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-right show&quot;]/div[@class=&quot;arrow_box_right&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>bc1b52cf-8284-4563-a8f4-93c928e1d0a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;event.preventDefault(); document.getElementById('logout-form').submit();&quot;]</value>
+      <webElementGuid>a64e8479-8345-4635-8ee6-b13914fe2459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-mobile']/ul[2]/li[4]/div/div/a[4]</value>
+      <webElementGuid>78451791-b444-4f10-b857-65e7594160df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Logout')]</value>
+      <webElementGuid>4df6fc94-1811-4c7b-b5c0-854a86340c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Users'])[1]/following::a[1]</value>
+      <webElementGuid>b384c59e-af1b-4af5-94a7-d29b7a91d600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CRM Setting'])[1]/following::a[2]</value>
+      <webElementGuid>7154778c-19a9-4a1a-96be-de095929f541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dayout/Logout'])[1]/preceding::a[1]</value>
+      <webElementGuid>8dfaa8bb-b545-4c6a-b17d-b50af1578a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::a[1]</value>
+      <webElementGuid>aeb012bc-cf6f-4035-a54c-189b3434af83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>330d47ae-d64c-46ca-9680-c9b8a2a1672d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.salezcrm.com/testing/public/logout')]</value>
+      <webElementGuid>ba3958eb-6402-431a-81a8-2205c8a027ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>c752a323-add3-45ab-b7be-e9ebed5acb9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.salezcrm.com/testing/public/logout' and (text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>cb8638b1-b467-45e7-9e27-a9dec471122d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

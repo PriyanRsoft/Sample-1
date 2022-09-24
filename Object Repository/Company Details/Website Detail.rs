@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Website Detail</name>
+   <tag></tag>
+   <elementGuidId>6b46d433-f538-4a83-9dd6-4b1ad457176a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='companylist']/div/div[4]/table/tbody/tr[9]/td[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e2b7d8dc-aa78-4851-8780-bc1d3e5e3ef2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>www.rsoft.in/</value>
+      <webElementGuid>5b155b6f-5f23-4421-a1f9-121aae0093a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;companylist&quot;)/div[@class=&quot;companydetail_list&quot;]/div[@class=&quot;table-responsive companydetailblocks&quot;]/table[@class=&quot;table table-borderless&quot;]/tbody[1]/tr[9]/td[2]/p[1]</value>
+      <webElementGuid>00fa9e84-bd2e-4de7-afdc-befcdbff7c45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='companylist']/div/div[4]/table/tbody/tr[9]/td[2]/p</value>
+      <webElementGuid>91f4ba07-43ce-424e-af42-332f9d9b67df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[1]/following::p[1]</value>
+      <webElementGuid>bfe62462-ed1f-47c5-aeab-10f15ad8fd7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fax'])[1]/following::p[2]</value>
+      <webElementGuid>b8316b54-e515-4329-9c54-ec9eae4da390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GST'])[1]/preceding::p[1]</value>
+      <webElementGuid>f75416e2-b1f2-4403-840d-c98dbacf0e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CompanyLogo'])[1]/preceding::p[2]</value>
+      <webElementGuid>70b4852b-0ccc-4203-b9ad-2046d9f7a210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='www.rsoft.in/']/parent::*</value>
+      <webElementGuid>e5d25989-4547-42bf-90de-e510d95d0db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td[2]/p</value>
+      <webElementGuid>71085daa-0151-43ac-bd7f-6052b9c3dfa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'www.rsoft.in/' or . = 'www.rsoft.in/')]</value>
+      <webElementGuid>44c0d315-2adb-4532-8fa5-8ece3766c3d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

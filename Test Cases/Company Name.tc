@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Need to verfiy Company Name Field</description>
+   <name>Company Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c941614a-b5ea-460a-939c-4c8428e7d9ec</testCaseGuid>
+</TestCaseEntity>

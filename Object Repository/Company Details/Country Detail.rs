@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Country Detail</name>
+   <tag></tag>
+   <elementGuidId>aef260b2-31f8-4d38-be93-2b6da2f80727</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='companylist']/div/div[4]/table/tbody/tr[6]/td[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6a328cc0-cf4c-4c53-b571-0a497a1a278d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>India</value>
+      <webElementGuid>a34a7c8f-e45d-44d9-81b1-cd4b386e37c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;companylist&quot;)/div[@class=&quot;companydetail_list&quot;]/div[@class=&quot;table-responsive companydetailblocks&quot;]/table[@class=&quot;table table-borderless&quot;]/tbody[1]/tr[6]/td[2]/p[1]</value>
+      <webElementGuid>5e3428a3-aea9-4f0b-9a22-12f5e6b98597</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='companylist']/div/div[4]/table/tbody/tr[6]/td[2]/p</value>
+      <webElementGuid>52fd8fd0-1206-40eb-85c9-83495577e726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::p[1]</value>
+      <webElementGuid>f154b177-ec07-431c-919b-dcbe85c84126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal Code'])[1]/following::p[2]</value>
+      <webElementGuid>5fd6114c-d50f-493e-a81c-e74c8bc6311c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/preceding::p[1]</value>
+      <webElementGuid>d595f3db-670a-4890-ad38-f4d40d4db07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fax'])[1]/preceding::p[2]</value>
+      <webElementGuid>8d02b252-3f78-416c-9698-a240da49c5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='India']/parent::*</value>
+      <webElementGuid>f3526e57-fc6d-4349-9132-4a7fb8ba3a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/p</value>
+      <webElementGuid>ce4001c8-76ce-415f-accf-aeaa5b32b724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'India' or . = 'India')]</value>
+      <webElementGuid>9e74a37f-8f1a-4572-b233-fc00240d3ac6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

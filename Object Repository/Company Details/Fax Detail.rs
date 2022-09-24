@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Fax Detail</name>
+   <tag></tag>
+   <elementGuidId>2778d9ce-296f-4cad-8f92-8b4282b7a545</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='companylist']/div/div[4]/table/tbody/tr[8]/td[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fbc460bf-5bdc-410e-97df-443b6b7c4af4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1453fe31-25ba-4752-b704-14012abd848d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;companylist&quot;)/div[@class=&quot;companydetail_list&quot;]/div[@class=&quot;table-responsive companydetailblocks&quot;]/table[@class=&quot;table table-borderless&quot;]/tbody[1]/tr[8]/td[2]/p[1]</value>
+      <webElementGuid>6fdcfaf6-cb24-4733-bc0e-1b860b774f80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='companylist']/div/div[4]/table/tbody/tr[8]/td[2]/p</value>
+      <webElementGuid>aa91f6a1-3e3e-4a6a-b6cb-b6d803722e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fax'])[1]/following::p[1]</value>
+      <webElementGuid>324e2fc6-c3d5-4d3f-9e7f-9f8cc72051f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/following::p[2]</value>
+      <webElementGuid>2f231fd5-265a-4f0e-a50d-b0f22b227261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[1]/preceding::p[1]</value>
+      <webElementGuid>c1a5ea48-0b41-47ea-989c-0a91d43f2c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GST'])[1]/preceding::p[2]</value>
+      <webElementGuid>d6a56fd5-9510-4614-b8a8-684c75298004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0']/parent::*</value>
+      <webElementGuid>88bbce72-ff3d-4037-b59d-4efa7b0b579b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[2]/p</value>
+      <webElementGuid>3898fbd0-a2ea-4113-baea-f8b65ce9b9a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '0' or . = '0')]</value>
+      <webElementGuid>ef465751-3a4a-4d77-9ca6-4b47db4897bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
